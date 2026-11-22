@@ -2,7 +2,7 @@
 
 AgenticMM is a material-centered multi-agent architecture for scalable first-principles materials modeling. One persistent agent owns each material's workflow and scientific state, and one coordinator manages shared computing resources, communication, and campaign progress. Externally supplied MatterSkills define the scientific workflows.
 
-![AgenticMM architecture](figures/figure_1.png)
+<img src="figures/figure_1.png" alt="AgenticMM architecture" width="80%">
 
 This repository accompanies *AgenticMM: A Material-Centered Multi-Agent Architecture for Scalable First-Principles Materials Modeling* by Zhenkun Yuan and Geoffroy Hautier.
 
