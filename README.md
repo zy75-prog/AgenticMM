@@ -20,7 +20,7 @@ This repository accompanies *AgenticMM: A Material-Centered Multi-Agent Architec
 
    > I want to study [property or scientific question] for [list of materials], using the AgenticMM architecture to implement the supplied MatterSkills. Set up one coordinator agent and one distinct material agent per material.
 
-4. Specify the authorized computing environment, working directory, and any material-specific requirements.
+4. Answer the coordinator’s setup questions to specify the authorized computing environment, working directory, and any material-specific requirements.
 5. Follow the readiness checks in Section III. Approve the campaign setup and verify the recorded agent assignments before authorizing calculations.
 
 ## License
