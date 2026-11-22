@@ -15,7 +15,7 @@ This repository accompanies *AgenticMM: A Material-Centered Multi-Agent Architec
 ## How to use
 
 1. Open a new Codex chat.
-2. Attach [AgenticMM.pdf](AgenticMM.pdf) and the MatterSkills for your workflow, such as [DefectSkills](https://github.com/zy75-prog/DefectSkills) for VASP-based point-defect calculations.
+2. Attach [AgenticMM.pdf](AgenticMM.pdf) and the MatterSkills for your workflow, such as [DefectSkills.pdf](https://github.com/zy75-prog/DefectSkills/blob/main/DefectSkills.pdf) for VASP-based point-defect calculations.
 3. Send a request like this, replacing the bracketed text.
 
    > I want to study [property or scientific question] for [list of materials], using the AgenticMM architecture to implement the supplied MatterSkills. Set up one coordinator agent and one distinct material agent per material.
