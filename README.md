@@ -14,10 +14,14 @@ This repository accompanies *AgenticMM: A Material-Centered Multi-Agent Architec
 
 ## How to use
 
-1. Start a campaign in an agent runtime that can instantiate one coordinator and one agent per material.
-2. Supply [AgenticMM.pdf](AgenticMM.pdf) and the MatterSkills for your workflow. For VASP-based point-defect calculations, use [DefectSkills](https://github.com/zy75-prog/DefectSkills).
-3. Provide the materials, campaign objective, authorized computing environment, and material-specific requirements. Follow the readiness checks in Section III before launching any calculations.
-4. Confirm the campaign setup and verify the recorded agent assignments before authorizing execution.
+1. Open a new Codex chat.
+2. Attach [AgenticMM.pdf](AgenticMM.pdf) and the MatterSkills for your workflow, such as [DefectSkills](https://github.com/zy75-prog/DefectSkills) for VASP-based point-defect calculations.
+3. Send a request like this, replacing the bracketed text.
+
+   > I want to study [property or scientific question] for [list of materials], using the AgenticMM architecture to implement the supplied MatterSkills. Set up one coordinator agent and one distinct material agent per material.
+
+4. Specify the authorized computing environment, working directory, and any material-specific requirements.
+5. Follow the readiness checks in Section III. Approve the campaign setup and verify the recorded agent assignments before authorizing calculations.
 
 ## License
 
