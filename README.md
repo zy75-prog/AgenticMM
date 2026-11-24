@@ -4,7 +4,11 @@ AgenticMM is a material-centered multi-agent architecture for scalable first-pri
 
 <img src="figures/figure_1.png" alt="AgenticMM architecture" width="92%">
 
-This repository accompanies *AgenticMM: A Material-Centered Multi-Agent Architecture for Scalable First-Principles Materials Modeling* by Zhenkun Yuan and Geoffroy Hautier.
+This repository accompanies:
+
+Z. Yuan and G. Hautier, “AgenticMM: A Material-Centered Multi-Agent Architecture for Scalable First-Principles Materials Modeling,” arXiv:2611.29248 (2026).
+
+Paper: [https://arxiv.org/abs/2611.29248](https://arxiv.org/abs/2611.29248)
 
 ## Repository contents
 
